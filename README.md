@@ -1,2 +1,2 @@
 # MyPeer
-A simple Website with a chat to be hosted on a Raspberry Pi.
+A simple Website scaffold with a user-chat, hosted on a Odroid U3.
